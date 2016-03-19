@@ -1,6 +1,6 @@
 {
   "name": "w3z",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "w3z is a cli interface for w3z.in | A hippity url shortener",
   "main": "index.js",
   "bin": {
