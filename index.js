@@ -25,7 +25,7 @@ function postRequest(url, callback)
       protocol: protocol,
       url: url.replace("https://", "").replace("http://", "")
     }
-    console.log(JSON.stringify(myData));
+    // console.log(JSON.stringify(myData));
     xhr.send(JSON.stringify(myData));
 }
 
