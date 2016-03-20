@@ -14,3 +14,8 @@ npm install -g w3z
 ```
 $ w3z google.com
 ```
+
+## Status
+
+Current build works but is unstable. Expect issues. 1.0.0 will 
+be released in a couple of days and that will be fully stable. 
