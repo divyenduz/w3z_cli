@@ -1,5 +1,7 @@
 ## Introduction
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/divyenduz/w3z_cli.svg)](https://greenkeeper.io/)
+
 This is a helper cli module for https://w3z.in, using this module
 you can shorten URLs from command line.
 
